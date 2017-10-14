@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">CiclodeVida</string>
+    <string name="buttonFechar">Fechar Janela</string>
 </resources>
