@@ -12,6 +12,9 @@ public class HomeActivity extends AppCompatActivity {
 
 
         System.out.println( "Método onCreate() executado." );
+
+
+
     }
 
     @Override
